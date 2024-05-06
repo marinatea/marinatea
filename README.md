@@ -19,5 +19,5 @@ Striving for excellence in every code. A technology enthusiast who is constantly
 <div style="text-align: center;">
   <h2 style="color: #ff6f61;">Welcome to My GitHub Profile!</h2>
   <p style="font-size: 18px;">Feel free to explore and connect with me!</p>
-  <a href="https://www.linkedin.com/in/maryna-karpova/" style="text-decoration: none;"><button style="background-color: #0077B5; color: white; padding: 20px 40px; border: none; border-radius: 10px; cursor: pointer;">Connect with Me on LinkedIn</button></a>
+  <a href="https://www.linkedin.com/in/maryna-karpova/" style="text-decoration: none;"><button style="background-color: #0077B5; color: white; padding: 30px 60px; border: none; border-radius: 10px; cursor: pointer;">Connect with Me on LinkedIn</button></a>
 </div>
