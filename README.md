@@ -1,8 +1,9 @@
 # Maryna Karpova
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/maryna-karpova/)](https://www.linkedin.com/in/maryna-karpova/)
 
-Hello, I am a Full-stack Developer
-Specializing in HTML, CSS, SASS, JavaScript, React, NodeJS
+Hello, I am a Full-stack Developer specializing in:
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![SASS](https://img.icons8.com/color/48/000000/sass.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![React](https://img.icons8.com/plasticine/48/000000/react.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+
 Striving for excellence in every code. A technology enthusiast who is constantly seeking new challenges and opportunities for growth.
 
 📍 Warsaw, Mazowieckie, Poland
@@ -32,5 +33,12 @@ Striving for excellence in every code. A technology enthusiast who is constantly
 <div style="text-align: center;">
   <h2 style="color: #ff6f61;">Welcome to My GitHub Profile!</h2>
   <p style="font-size: 18px;">Feel free to explore and connect with me!</p>
-  <img src="https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif" alt="Hello GIF" width="300" height="200">
+  <button style="background-color: #ff6f61; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;" onmouseover="revealMessage()">Hover Me!</button>
+  <p id="hidden-message" style="display: none; font-style: italic; color: #666;">Thanks for visiting!</p>
 </div>
+
+<script>
+  function revealMessage() {
+    document.getElementById("hidden-message").style.display = "block";
+  }
+</script>
