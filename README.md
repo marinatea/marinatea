@@ -1,5 +1,6 @@
-<div style="display: flex; flex-direction: column; align-items: center;">
+
 # Maryna Karpova
+<div style="display: flex; flex-direction: column; align-items: center;">
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/maryna-karpova/)](https://www.linkedin.com/in/maryna-karpova/)
 
 Hello, I am a Full-stack Developer specializing in:
