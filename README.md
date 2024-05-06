@@ -1,7 +1,7 @@
 # Maryna Karpova
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/maryna-karpova/)](https://www.linkedin.com/in/maryna-karpova/)
 
-Full-stack Developer | Specializing in HTML, CSS, SASS, JavaScript, React, NodeJS | Striving for excellence in every code. A technology enthusiast who is constantly seeking new challenges and opportunities for growth.
+Hello, I am a Full-stack Developer | Specializing in HTML, CSS, SASS, JavaScript, React, NodeJS | Striving for excellence in every code. A technology enthusiast who is constantly seeking new challenges and opportunities for growth.
 
 📍 Warsaw, Mazowieckie, Poland
 
