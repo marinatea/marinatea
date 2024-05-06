@@ -1,6 +1,6 @@
-
 # Maryna Karpova
 <div style="display: flex; flex-direction: column; align-items: center;">
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/maryna-karpova/)](https://www.linkedin.com/in/maryna-karpova/)
 
 Hello, I am a Full-stack Developer specializing in:
@@ -23,4 +23,6 @@ Striving for excellence in every code. A technology enthusiast who is constantly
   <h2 style="color: #ff6f61;">Welcome to My GitHub Profile!</h2>
   <p style="font-size: 18px;">Feel free to explore and connect with me!</p>
   <a href="https://www.linkedin.com/in/maryna-karpova/" style="text-decoration: none;"><button style="background-color: #0077B5; color: white; padding: 30px 60px; border: none; border-radius: 10px; cursor: pointer;">Connect with Me on LinkedIn</button></a>
+</div>
+
 </div>
