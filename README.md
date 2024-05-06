@@ -6,8 +6,6 @@ Hello, I am a Full-stack Developer specializing in:
 
 Striving for excellence in every code. A technology enthusiast who is constantly seeking new challenges and opportunities for growth.
 
-📍 Warsaw, Mazowieckie, Poland
-
 ## About Me
 😍 Combining my passion for unraveling the mysteries of technology with my creative instincts, I've found my niche in front-end development.
 
