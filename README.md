@@ -15,28 +15,9 @@ Striving for excellence in every code. A technology enthusiast who is constantly
 
 👨🏻‍💻 With skills in HTML, CSS, React, JS, Node.js, and more, I'm poised to excel in this field. Ready for new challenges, I'm excited to continue pushing the boundaries of technology while embracing the richness of global cultures.
 
-<details>
-  <summary>Click here to see more about my projects</summary>
-  
-  ## Projects
-  
-  ### Exhibit Exploration: Journey Into Art
-  Landing Page for a virtual museum, showcasing exhibits and exhibition information.
-  Utilizing HTML, CSS, and Sass, I ensured clean code and an aesthetically pleasing design.
-  The page features a photo gallery, news section, and contact form.
-  With its dynamic design and simple navigation, it encourages interaction and further exploration of history.
-</details>
-
 <!-- Add interactive elements below -->
 <div style="text-align: center;">
   <h2 style="color: #ff6f61;">Welcome to My GitHub Profile!</h2>
   <p style="font-size: 18px;">Feel free to explore and connect with me!</p>
-  <button style="background-color: #ff6f61; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;" onmouseover="revealMessage()">Hover Me!</button>
-  <p id="hidden-message" style="display: none; font-style: italic; color: #666;">Thanks for visiting!</p>
+  <a href="https://www.linkedin.com/in/maryna-karpova/" style="text-decoration: none;"><button style="background-color: #0077B5; color: white; padding: 20px 40px; border: none; border-radius: 10px; cursor: pointer;">Connect with Me on LinkedIn</button></a>
 </div>
-
-<script>
-  function revealMessage() {
-    document.getElementById("hidden-message").style.display = "block";
-  }
-</script>
