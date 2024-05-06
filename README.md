@@ -1,6 +1,6 @@
 # Maryna Karpova
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/maryna-karpova/)](https://www.linkedin.com/in/maryna-karpova/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=react&logoColor=white&link=https://yourportfolio.com)](https://www.codewars.com/users/marinatea))
+[![Codewars](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=react&logoColor=white&link=https://yourportfolio.com)](https://www.codewars.com/users/marinatea))
 
 Full-stack Developer | Specializing in HTML, CSS, SASS, JavaScript, React, NodeJS | Striving for excellence in every code. A technology enthusiast who is constantly seeking new challenges and opportunities for growth.
 
