@@ -5,18 +5,17 @@
 
 Hello, I am a Full-stack Developer specializing in:
 
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![SASS](https://img.icons8.com/color/48/000000/sass.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![React](https://img.icons8.com/plasticine/48/000000/react.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![SASS](https://img.icons8.com/color/48/000000/sass.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![React](https://img.icons8.com/plasticine/48/000000/react.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Redux](https://img.icons8.com/?size=100&id=egQrEphjrirz&format=png&color=000000)
 
 Striving for excellence in every code. A technology enthusiast who is constantly seeking new challenges and opportunities for growth.
 
 ## About Me
-😍 Combining my passion for unraveling the mysteries of technology with my creative instincts, I've found my niche in front-end development.
+😍 Passionate Front-end/Full-stack Developer | Continuous Learner
 
-🌍 Beyond coding, I thrive on experiences that broaden my horizons. Traveling and language learning are integral to my life, allowing me to explore diverse cultures and connect with people worldwide. These experiences enrich my work, inspiring me to create accessible and visually appealing products.
+👨🏻‍💻 I have dedicated over 1656 hours (yes, I counted! 😁) to mastering technologies such as HTML, CSS, SCSS, JavaScript, TypeScript, React, Bootstrap, SQL, PostgreSQL, Node.js, Express.js, Next.js... and I am eager to further develop my skills.
 
-💻 I eagerly embrace business travel, seeing it as an opportunity for personal and professional growth. Engaging with diverse perspectives fuels my enthusiasm, propelling me forward in the ever-evolving field of front-end development.
+💻 Open to roles: Front-end Developer, Full-stack Developer, React Developer, Back-end Developer
 
-👨🏻‍💻 With skills in HTML, CSS, React, JS, Node.js, and more, I'm poised to excel in this field. Ready for new challenges, I'm excited to continue pushing the boundaries of technology while embracing the richness of global cultures.
 
 <!-- Add interactive elements below -->
 <div style="text-align: center;">
