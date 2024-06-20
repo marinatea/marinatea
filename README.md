@@ -25,7 +25,12 @@ Striving for excellence in every line of code. A technology enthusiast who is co
 💻 Open to roles: Front-end Developer, Full-stack Developer, React Developer, Back-end Developer
 
 ## Feel free to check out some of my PROJECTS:
-TheMet ® - Responsive Landing Page - 2024
+Exhibit Exploration: Journey Into Art - Responsive Landing Page - 2024
+__HTML / SCSS /
+*Landing Page for a virtual museum, showcasing exhibits and exhibition information.
+Utilizing HTML, CSS, and Sass, I ensured clean code and an aesthetically pleasing design.
+The page features a photo gallery, news section, and contact form.
+With its dynamic design and simple navigation, it encourages interaction and further exploration of history.
 - [Repo](https://github.com/marinatea/themet/tree/develop)
 - [Demo](https://marinatea.github.io/themet/)
 
