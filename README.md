@@ -28,7 +28,7 @@ Striving for excellence in every line of code. A technology enthusiast who is co
 
 **Exhibit Exploration: Journey Into Art - Responsive Landing Page - 2024**
 
-__HTML/SCSS/CSS/BEM__
+__HTML / SCSS / CSS / BEM__
 
 *Landing Page for a virtual museum, showcasing exhibits and exhibition information.
 The page features a photo gallery, news section, and contact form.
@@ -37,7 +37,14 @@ With its dynamic design and simple navigation, it encourages interaction and fur
 - [Repo](https://github.com/marinatea/themet/tree/develop)
 - [Demo](https://marinatea.github.io/themet/)
 
+**ToDo App - 2024**
 
+__React / TypeScript / REST API / HTML / SCSS__
+
+*Minimalist task management application. Add, delete, and manage your todos. Seamless interaction with a server.*
+
+- [Repo](https://github.com/marinatea/react_todo-app-with-api/tree/develop)
+- [Demo](https://marinatea.github.io/react_todo-app-with-api/)
 
 
 
