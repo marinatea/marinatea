@@ -31,9 +31,8 @@ Exhibit Exploration: Journey Into Art - Responsive Landing Page - 2024
 __HTML/SCSS/CSS/BEM__
 
 *Landing Page for a virtual museum, showcasing exhibits and exhibition information.
-Utilizing HTML, CSS, and Sass, I ensured clean code and an aesthetically pleasing design.
-The page features a photo gallery, news section, and contact form.*
-With its dynamic design and simple navigation, it encourages interaction and further exploration of history.
+The page features a photo gallery, news section, and contact form.
+With its dynamic design and simple navigation, it encourages interaction and further exploration of history.*
 
 - [Repo](https://github.com/marinatea/themet/tree/develop)
 - [Demo](https://marinatea.github.io/themet/)
