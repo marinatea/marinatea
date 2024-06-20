@@ -24,7 +24,7 @@ Striving for excellence in every line of code. A technology enthusiast who is co
 
 💻 Open to roles: Front-end Developer, Full-stack Developer, React Developer, Back-end Developer
 
-Feel free to check out some of my PROJECTS:
+## Feel free to check out some of my PROJECTS:
 - [Project 1](https://github.com/twoj-projekt-1) - [Demo](https://www.demo-projektu-1.com)
 
 
