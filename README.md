@@ -26,7 +26,8 @@ Striving for excellence in every line of code. A technology enthusiast who is co
 
 ## Feel free to check out some of my PROJECTS:
 TheMet ® - Responsive Landing Page - 2024
-- [Repo](https://github.com/marinatea/themet/tree/develop) - [Demo](https://marinatea.github.io/themet/)
+- [Repo](https://github.com/marinatea/themet/tree/develop)
+- [Demo](https://marinatea.github.io/themet/)
 
 
 
