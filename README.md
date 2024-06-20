@@ -17,7 +17,7 @@ Hello, I am a Full-stack Developer specializing in:
 
 
 
-Striving for excellence in every code. A technology enthusiast who is constantly seeking new challenges and opportunities for growth.
+Striving for excellence in every line of code. A technology enthusiast who is constantly seeking new challenges and opportunities for growth.
 
 ## About Me
 😍 Passionate Front-end/Full-stack Developer | Continuous Learner
