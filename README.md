@@ -26,7 +26,7 @@ Striving for excellence in every line of code. A technology enthusiast who is co
 
 ## Feel free to check out some of my PROJECTS:
 
-<p style="font-size: 24px;">Exhibit Exploration: Journey Into Art - Responsive Landing Page - 2024</p>
+**Exhibit Exploration: Journey Into Art - Responsive Landing Page - 2024**
 
 __HTML/SCSS/CSS/BEM__
 
