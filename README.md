@@ -12,7 +12,7 @@ Hello, I am a Full-stack Developer specializing in:
 ![React](https://img.icons8.com/plasticine/48/000000/react.png)
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
 ![Redux](https://img.icons8.com/color/48/000000/redux.png)
-![Express.js](https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000)
+![Express.js](https://img.icons8.com/?size=48&id=kg46nzoJrmTR&format=png&color=000000)
 
 
 
