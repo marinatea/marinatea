@@ -15,8 +15,6 @@ Hello, I am a Full-stack Developer specializing in:
 ![Express.js](https://img.icons8.com/?size=48&id=WNoJgbzDr3i2&format=png&color=000000)
 ![SQL](https://img.icons8.com/?size=48&id=59952&format=png&color=000000)
 
-
-
 Striving for excellence in every line of code. A technology enthusiast who is constantly seeking new challenges and opportunities for growth.
 
 ## About Me
