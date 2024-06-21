@@ -55,6 +55,15 @@ __ HTML / SCSS__
 - [Repo](https://github.com/marinatea/bose_simple_landing)
 - [Demo](https://marinatea.github.io/bose_simple_landing/)
 
+✅ **Tetris Game - 2024**
+
+__ HTML / SCSS / JS__
+
+*A classic Tetris game clone.*
+
+- [Repo](https://github.com/marinatea/Tetris_js?tab=readme-ov-file)
+- [Demo](https://marinatea.github.io/Tetris_js/)
+
 
 <!-- Add interactive elements below -->
 <div style="text-align: center;">
