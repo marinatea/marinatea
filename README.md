@@ -46,6 +46,14 @@ __React / TypeScript / REST API / HTML / SCSS__
 - [Repo](https://github.com/marinatea/react_todo-app-with-api/tree/develop)
 - [Demo](https://marinatea.github.io/react_todo-app-with-api/)
 
+**Bose - Simple Landing Page - 2023**
+
+__ HTML / SCSS__
+
+*A responsive landing page of Bose.*
+
+- [Repo](https://github.com/marinatea/bose_simple_landing)
+- [Demo](https://marinatea.github.io/bose_simple_landing/)
 
 
 <!-- Add interactive elements below -->
