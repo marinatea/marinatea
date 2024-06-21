@@ -41,7 +41,7 @@ With its dynamic design and simple navigation, it encourages interaction and fur
 
 __React / TypeScript / REST API / HTML / SCSS__
 
-*Minimalist task management application. Add, delete, and manage your todos. Seamless interaction with a server.*
+*Effortless task management app: Add, delete, and organize your to-dos with seamless server integration.*
 
 - [Repo](https://github.com/marinatea/react_todo-app-with-api/tree/develop)
 - [Demo](https://marinatea.github.io/react_todo-app-with-api/)
