@@ -26,7 +26,7 @@ Striving for excellence in every line of code. A technology enthusiast who is co
 
 ## Feel free to check out some of my PROJECTS:
 
-**Exhibit Exploration: Journey Into Art - Responsive Landing Page - 2024**
+✅ **Exhibit Exploration: Journey Into Art - Responsive Landing Page - 2024**
 
 __HTML / SCSS / CSS / BEM__
 
@@ -37,7 +37,7 @@ With its dynamic design and simple navigation, it encourages interaction and fur
 - [Repo](https://github.com/marinatea/themet/tree/develop)
 - [Demo](https://marinatea.github.io/themet/)
 
-**ToDo App - 2024**
+✅ **ToDo App - 2024**
 
 __React / TypeScript / REST API / HTML / SCSS__
 
@@ -46,7 +46,7 @@ __React / TypeScript / REST API / HTML / SCSS__
 - [Repo](https://github.com/marinatea/react_todo-app-with-api/tree/develop)
 - [Demo](https://marinatea.github.io/react_todo-app-with-api/)
 
-**Bose - Simple Landing Page - 2023**
+✅ **Bose - Simple Landing Page - 2023**
 
 __ HTML / SCSS__
 
