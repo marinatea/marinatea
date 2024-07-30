@@ -26,6 +26,15 @@ Striving for excellence in every line of code. A technology enthusiast who is co
 
 ## Feel free to check out some of my PROJECTS:
 
+✅ **Nice Gadget Store - 2024(in process)**
+
+__React / Node.js / Express / Clerk / Sequelize / PostgreSQL / SCSS Module / Redux /Express.js__
+
+*My contribution to Gadget Catalog: pagination and sorting - the user can select products by name, date, price. You can log in and add products to your favorites. Breadcrumbs - you can go to the previous page. And also a header with links and a footer, from which you can go back to the top of the page.*
+
+- [Repo](https://github.com/marinatea/nice_gadget_store)
+- [Demo](https://marinatea.github.io/nice_gadget_store/)
+
 ✅ **Exhibit Exploration: Journey Into Art - Responsive Landing Page - 2024**
 
 __HTML / SCSS / CSS / BEM__
@@ -59,9 +68,9 @@ __ HTML / SCSS__
 
 __ HTML / SCSS / JS__
 
-*A classic Tetris game clone.*
+*A classic Tetris game.*
 
-- [Repo](https://github.com/marinatea/Tetris_js?tab=readme-ov-file)
+- [Repo](https://github.com/marinatea/Tetris_js)
 - [Demo](https://marinatea.github.io/Tetris_js/)
 
 
