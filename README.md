@@ -26,7 +26,7 @@ Striving for excellence in every line of code. A technology enthusiast who is co
 
 ## Feel free to check out some of my PROJECTS:
 
-✅ **Nice Gadget Store - 2024(in process)**
+✅ **Nice Gadget Store - 2024(in process with back-end part)**
 
 __React / Node.js / Express / Clerk / Sequelize / PostgreSQL / SCSS Module / Redux / Express.js__
 
