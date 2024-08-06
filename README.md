@@ -28,7 +28,7 @@ Striving for excellence in every line of code. A technology enthusiast who is co
 
 ✅ **Nice Gadget Store - 2024(in process with back-end part)**
 
-__React / Node.js / Express / Clerk / Sequelize / PostgreSQL / SCSS Module / Redux / Express.js__
+__React / Node.js / Clerk / Sequelize / PostgreSQL / SCSS Module / Redux / Express.js__
 
 *My contribution to Gadget Catalog: pagination and sorting - the user can select products by name, date, price. You can log in and add products to your favorites. Breadcrumbs - you can go to the previous page. And also a header with links and a footer, from which you can go back to the top of the page.*
 
