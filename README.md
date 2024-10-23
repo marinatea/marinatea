@@ -26,6 +26,15 @@ Striving for excellence in every line of code. A technology enthusiast who is co
 
 ## Feel free to check out some of my PROJECTS:
 
+✅ **NGO  - Website where every educator has access to high-quality training and resources, empowering them to foster a dynamic and enriching learning environment for all students. - 2024**
+
+__React / Node.js / Sanity / Sequelize / SCSS Module / Redux / Vite / Tailwind / __
+
+*My contribution to NGO: Connection section 'Contact' to Sanity, header, section 'Contact Us', section 'Home Page', configurations: basic styles, variables, mixins, 'Button', 'Trainings' section, 'Why AQE' section.*
+
+- [Repo](https://github.com/NGO-AQE/NGO-AQE-Project)
+- [Demo](https://ngo-aqe-project-git-main-ngo-aqes-projects.vercel.app/en#form)
+
 ✅ **Nice Gadget Store - 2024(in process with back-end part)**
 
 __React / Node.js / Clerk / Sequelize / PostgreSQL / SCSS Module / Redux / Express.js__
