@@ -42,7 +42,6 @@ __React / Node.js / Clerk / Sequelize / PostgreSQL / SCSS Module / Redux / Expre
 *My contribution to Gadget Catalog: pagination and sorting - the user can select products by name, date, price. You can log in and add products to your favorites. Breadcrumbs - you can go to the previous page. And also a header with links and a footer, from which you can go back to the top of the page.*
 
 - [Repo](https://github.com/marinatea/nice_gadget_store)
-- [Demo](https://marinatea.github.io/nice_gadget_store/)
 
 ✅ **Exhibit Exploration: Journey Into Art - Responsive Landing Page - 2024**
 
