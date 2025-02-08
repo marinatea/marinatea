@@ -34,10 +34,10 @@ __React.js / Next.js / Railway / SCSS Module / Sanity__
 
 **Features:**
 
-*- Product search and sorting: Employees can easily search for missing products and sort them by category and store for efficient ordering.
+- Product search and sorting: Employees can easily search for missing products and sort them by category and store for efficient ordering.
 - Automatic cart sorting from the admin side: Products are automatically sorted by store, simplifying the order process and saving time.
 - Unique login codes: Each employee is assigned a unique code to track orders, providing full transparency for admins.
-- Device compatibility: The app is optimized for mobile use with responsive design for both smartphones and computers.*
+- Device compatibility: The app is optimized for mobile use with responsive design for both smartphones and computers.
 
 *Development plan: In the future, I plan to add a feature for users and admins to add missing products through a simple form. This will make the app more dynamic and flexible. Notifications will also be added to keep* *admins informed of new orders for faster response times.*
 
