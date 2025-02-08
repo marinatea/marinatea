@@ -26,9 +26,30 @@ Striving for excellence in every line of code. A technology enthusiast who is co
 
 ## Feel free to check out some of my PROJECTS:
 
+✅ **Order Management Application for Restaurants**
+
+__React / Next.js / Railway / SCSS Module / Sanity__
+
+*This application was created to streamline the order process in a restaurant, improving communication between staff and the person responsible for placing orders with suppliers. Its intuitive interface optimizes daily operations, minimizing errors and saving time.
+
+Features:
+
+Product search and sorting: Employees can easily search for missing products and sort them by category and store for efficient ordering.
+Automatic cart sorting from the admin side: Products are automatically sorted by store, simplifying the order process and saving time.
+Unique login codes: Each employee is assigned a unique code to track orders, providing full transparency for admins.
+Device compatibility: The app is optimized for mobile use with responsive design for both smartphones and computers.
+Development plan: In the future, I plan to add a feature for users and admins to add missing products through a simple form. This will make the app more dynamic and flexible. Notifications will also be added to keep admins informed of new orders for faster response times.
+
+Benefits: The app simplifies restaurant processes, saves time, and reduces errors. Automation allows staff to focus on more valuable tasks, while admins maintain full control over orders and the supply process.*
+
+![My Project](https://drive.google.com/file/d/1bnx6ykp2oNUh_aW6HWL2jHZPu0tdatg0/view?usp=sharing)
+
+
+
+
 ✅ **NGO  - Website where every educator has access to high-quality training and resources, empowering them to foster a dynamic and enriching learning environment for all students. - 2024**
 
-__React / Node.js / Sanity / Sequelize / SCSS Module / Redux / Vite / Tailwind / __
+__React / Node.js / Sanity / Sequelize / SCSS Module / Redux / Vite / Tailwind__
 
 *My contribution to NGO: Connection section 'Contact' to Sanity, header, section 'Contact Us', section 'Home Page', configurations: basic styles, variables, mixins, 'Button', 'Trainings' section, 'Why AQE' section.*
 
