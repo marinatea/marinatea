@@ -42,8 +42,7 @@ __React.js / Next.js / Railway / SCSS Module / Sanity__
 
 *Benefits: The app simplifies restaurant processes, saves time, and reduces errors. Automation allows staff to focus on more valuable tasks, while admins maintain full control over orders and the supply process.*
 
-![My Project](https://drive.google.com/uc?export=view&id=1bR-B4w_m23XM5RqwaJtK-_bYQHUnkOwT)
-<img src="https://drive.google.com/uc?export=view&id=1bR-B4w_m23XM5RqwaJtK-_bYQHUnkOwT" width="100" height="50" />
+<img src="https://drive.google.com/uc?export=view&id=1bR-B4w_m23XM5RqwaJtK-_bYQHUnkOwT" width="200" height="100" />
 
 
 
