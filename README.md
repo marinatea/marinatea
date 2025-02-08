@@ -42,9 +42,7 @@ __React.js / Next.js / Railway / SCSS Module / Sanity__
 
 *Benefits: The app simplifies restaurant processes, saves time, and reduces errors. Automation allows staff to focus on more valuable tasks, while admins maintain full control over orders and the supply process.*
 
-<img src="https://drive.google.com/uc?export=view&id=1bR-B4w_m23XM5RqwaJtK-_bYQHUnkOwT" width="200" height="100" />
-
-
+<img src="https://drive.google.com/uc?export=view&id=1bR-B4w_m23XM5RqwaJtK-_bYQHUnkOwT" width="300" height="200" /> <img src="https://drive.google.com/uc?export=view&id=1vC4T3Tx0t37panyGOLSf50qjm6FhYjzy" width="300" height="200" /> <img src="https://drive.google.com/uc?export=view&id=1Q4Mf8JprohMm2MRsaDIvfa6vcGqvYD2n" width="300" height="200" /> <img src="https://drive.google.com/uc?export=view&id=1uLnwcCVjhaD0DvVCnF6sPto0YMDZPqmN" width="300" height="200" /> <img src="https://drive.google.com/uc?export=view&id=1bnx6ykp2oNUh_aW6HWL2jHZPu0tdatg0" width="300" height="200" /> <img src="https://drive.google.com/uc?export=view&id=189y8fbTtYPxcolG3cN_exlLm6o7unzwq" width="300" height="200" />
 
 
 ✅ **NGO  - Website where every educator has access to high-quality training and resources, empowering them to foster a dynamic and enriching learning environment for all students. - 2024**
