@@ -17,7 +17,7 @@ Hello, I am a Front-End Developer specializing in:
 ![Next](/assets/icons/Next.js.svg)
 ![Sanity](/assets/icons/Sanity.svg)
 ![Tailwind](/assets/icons/Tailwind%20CSS.svg)
-![Vercel] <img src="path/to/your/file.svg" style="fill: #ffffff;"/>
+<img src="/assets/icons/Vercel.svg" style="fill: #ffffff;"/>
 
 ![Vite](/assets/icons/Vite.js.svg)
 
