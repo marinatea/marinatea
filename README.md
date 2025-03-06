@@ -27,7 +27,7 @@ Striving for excellence in every line of code. A technology enthusiast who is co
 
 👨🏻‍💻 I have dedicated over 1656 hours (yes, I counted! 😁) to mastering technologies such as HTML, CSS, SCSS, JavaScript, TypeScript, React, Next, Bootstrap, PostgreSQL... and I am eager to further develop my skills.
 
-💻 Open to roles: Front-end Developer, React Developer
+## 💻 Open to roles: Front-end Developer, React Developer
 
 ## Feel free to check out some of my PROJECTS:
 
