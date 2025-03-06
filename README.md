@@ -18,7 +18,6 @@ Hello, I am a Front-End Developer specializing in:
 ![Sanity](/assets/icons/Sanity.svg)
 ![Tailwind](/assets/icons/Tailwind%20CSS.svg)
 <img src="/assets/icons/Vercel.svg" style="fill: #ffffff;"/>
-
 ![Vite](/assets/icons/Vite.js.svg)
 
 Striving for excellence in every line of code. A technology enthusiast who is constantly seeking new challenges and opportunities for growth.
