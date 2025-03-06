@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/maryna-karpova/)](https://www.linkedin.com/in/maryna-karpova/)
 
-Hello, I am a Full-stack Developer specializing in:
+Hello, I am a Front-End-stack Developer specializing in:
 
 ![HTML5](/assets/icons/HTML5.svg)
 ![CSS3](/assets/icons/CSS3.svg)
