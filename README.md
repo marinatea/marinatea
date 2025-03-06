@@ -25,9 +25,9 @@ Striving for excellence in every line of code. A technology enthusiast who is co
 ## About Me
 😍 Passionate Front-end/Full-stack Developer | Continuous Learner
 
-👨🏻‍💻 I have dedicated over 1656 hours (yes, I counted! 😁) to mastering technologies such as HTML, CSS, SCSS, JavaScript, TypeScript, React, Bootstrap, SQL, PostgreSQL, Node.js, Express.js, Next.js... and I am eager to further develop my skills.
+👨🏻‍💻 I have dedicated over 1656 hours (yes, I counted! 😁) to mastering technologies such as HTML, CSS, SCSS, JavaScript, TypeScript, React, Next, Bootstrap, PostgreSQL... and I am eager to further develop my skills.
 
-💻 Open to roles: Front-end Developer, Full-stack Developer, React Developer, Back-end Developer
+💻 Open to roles: Front-end Developer, React Developer
 
 ## Feel free to check out some of my PROJECTS:
 
