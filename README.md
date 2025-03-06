@@ -5,7 +5,7 @@
 
 Hello, I am a Full-stack Developer specializing in:
 
-![HTML5](/assets/icons/HTML5.svg)
+![HTML5](/assets/icons/HTML5.svg =24x24)
 ![CSS3](/assets/icons/CSS3.svg)
 ![SASS](/assets/icons/Sass.svg)
 ![JavaScript](/assets/icons/JavaScript.svg)
