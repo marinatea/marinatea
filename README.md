@@ -5,15 +5,20 @@
 
 Hello, I am a Full-stack Developer specializing in:
 
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
-![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-![SASS](https://img.icons8.com/color/48/000000/sass.png)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![React](https://img.icons8.com/plasticine/48/000000/react.png)
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
-![Redux](https://img.icons8.com/color/48/000000/redux.png)
-![Express.js](https://img.icons8.com/?size=48&id=WNoJgbzDr3i2&format=png&color=000000)
-![SQL](https://img.icons8.com/?size=48&id=59952&format=png&color=000000)
+![HTML5](/assets/icons/HTML5.svg)
+![CSS3](/assets/icons/CSS3.svg)
+![SASS](/assets/icons/Sass.svg)
+![JavaScript](/assets/icons/JavaScript.svg)
+![TypeScript](/assets/icons/TypeScript.svg)
+![React](/assets/icons/React.svg)
+![React Bootstrap](/assets/icons/React%20Bootstrap.svg)
+![Redux](/assets/icons/Redux.svg)
+![PostgresSQL](/assets/icons/PostgresSQL.svg)
+![Next](/assets/icons/Next.js.svg)
+![Sanity](/assets/icons/Sanity.svg)
+![Tailwind](/assets/icons/Tailwind%20CSS.svg)
+![Vercel](/assets/icons/Vercel.svg)
+![Vite](/assets/icons/Vite.js.svg)
 
 Striving for excellence in every line of code. A technology enthusiast who is constantly seeking new challenges and opportunities for growth.
 
