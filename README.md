@@ -33,7 +33,7 @@ Striving for excellence in every line of code. A technology enthusiast who is co
 
 ✅ **Order Management Application for Restaurants**
 
-__React.js / Next.js / Railway / SCSS Module / Sanity__
+__React.js / Next.js / Railway / SCSS Module / Prisma__
 
 *This application was created to streamline the order process in a restaurant, improving communication between staff and the person responsible for placing orders with suppliers. Its intuitive interface optimizes daily operations, minimizing errors and saving time.*
 
